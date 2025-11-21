@@ -1,0 +1,9 @@
+{
+	"name": "yashdatafactorypayroll",
+	"location": "westus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "600ffe5e-79a6-4713-a17e-a61971188cc0",
+		"tenantId": "010419ba-9ed4-4ce7-814d-3b9fe26fa4ac"
+	}
+}
